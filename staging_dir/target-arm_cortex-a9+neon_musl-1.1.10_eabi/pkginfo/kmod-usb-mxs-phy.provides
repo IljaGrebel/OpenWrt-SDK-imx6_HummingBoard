@@ -1,0 +1,3 @@
+phy-mxs-usb.ko
+usb-common.ko
+usbcore.ko

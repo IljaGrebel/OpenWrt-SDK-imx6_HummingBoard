@@ -1,0 +1,3 @@
+hwmon.ko
+imx_thermal.ko
+thermal_sys.ko

@@ -1,0 +1,4 @@
+ehci-hcd.ko
+ehci-platform.ko
+usb-common.ko
+usbcore.ko

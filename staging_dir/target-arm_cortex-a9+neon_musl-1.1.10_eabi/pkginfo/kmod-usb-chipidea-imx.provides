@@ -1,0 +1,8 @@
+ci_hdrc.ko
+ci_hdrc_imx.ko
+ehci-hcd.ko
+ehci-platform.ko
+udc-core.ko
+usb-common.ko
+usbcore.ko
+usbmisc_imx.ko

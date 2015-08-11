@@ -1,0 +1,16 @@
+imx-pcm-dma.ko
+input-core.ko
+snd-compress.ko
+snd-hwdep.ko
+snd-mixer-oss.ko
+snd-pcm-dmaengine.ko
+snd-pcm-oss.ko
+snd-pcm.ko
+snd-rawmidi.ko
+snd-seq-device.ko
+snd-soc-core.ko
+snd-soc-fsl-ssi.ko
+snd-soc-imx-audmux.ko
+snd-timer.ko
+snd.ko
+soundcore.ko
